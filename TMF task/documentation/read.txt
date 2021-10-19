@@ -1,0 +1,7 @@
+Pure JavaScript CRUD Operations with Html for posts of a Blogging App
+
+Content discussed :
+
+Design HTML Form
+HTML Form Validation
+HTML Table CRUD Operations
